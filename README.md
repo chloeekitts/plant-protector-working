@@ -1,8 +1,4 @@
-# Plant Protector [(LINK)](https://plant-protector-working.herokuapp.com/)
-
-## Description
-
-![alt](assets/img/logo.gif)
+![alt](assets/img/Plant-Protector-LOGO.svg)
 
 # Plant-Protector
 Mobile App to ease the workload while gardening. Accomplished by using ESP8266 controllers and Web data to inform user to take action in the garden.
