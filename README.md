@@ -1,5 +1,9 @@
 ![alt](assets/img/Plant-Protector-LOGO.svg)
 
+# Plant Protector [(LINK)](https://plant-protector-working.herokuapp.com/)
+
+![alt](assets/img/Plant-Protector-LOGO.svg)
+
 # Plant-Protector
 Mobile App to ease the workload while gardening. Accomplished by using ESP8266 controllers and Web data to inform user to take action in the garden.
 
@@ -28,12 +32,12 @@ npm install
 expo start --web
 
 
-## Github Repository/Development Files
+### Github Repository/Development Files
 
 * https://github.com/thegroupthatworkz/Plant-Protector.git
 
 
-## Tools Used
+### Tools Used
 
 - React with Material Design UI
 - Javascript
@@ -54,7 +58,7 @@ expo start --web
 ![alt](assets/img/wireframe3.png)
 
 
-## UX/UI Design
+### UX/UI Design
 
 Home Page
 
@@ -73,19 +77,19 @@ Weather Section
 ![alt](assets/img/weather.png)
 
 
-## Initial Design ****USE GIF***** - NEED THESE DESIGNS (MAKE IN AI) 
+### Initial Design ****USE GIF***** - NEED THESE DESIGNS (MAKE IN AI) 
 
 UX/UI Iterations 
 
 ![alt](assets/img/mockups.gif)
 
 
-## Final Design ****USE GIF***** - NEED THESE SCREEN SHOTS OF FINAL
+### Final Design ****USE GIF***** - NEED THESE SCREEN SHOTS OF FINAL
 
 ![alt](assets/img/mockups-final.gif)
 
 
-## API Server Routes
+### API Server Routes
 
 ```
 router.get("/orders",                  function(req, res) {...})
