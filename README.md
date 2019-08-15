@@ -1,7 +1,6 @@
 ## [(VIEW APP)](https://plant-protector-working.herokuapp.com/)
 
 ![Logo](assets/images/logo.svg)
-Format: ![Alt Text](url)
 
 # Plant-Protector
 Mobile App to ease the workload while gardening. Accomplished by using ESP8266 controllers and Web data to inform user to take action in the garden.
@@ -46,7 +45,7 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 - Firebase
 
 
-### Wireframs and Planning
+### Wireframes and Planning
 
 ![alt](assets/img/wireframe1.png)
 
