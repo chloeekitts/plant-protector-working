@@ -1,6 +1,4 @@
-# Plant Protector [(LINK)](https://plant-protector-working.herokuapp.com/)
-
-## Description
+## [(VIEW APP)](https://plant-protector-working.herokuapp.com/)
 
 ![Logo](assets/images/logo.svg)
 Format: ![Alt Text](url)
@@ -11,7 +9,7 @@ Mobile App to ease the workload while gardening. Accomplished by using ESP8266 c
 This App tracks the growing cycle of your peppers, and provides information on methods to produce the best harvest.
 
 ## Installation
-### For Mobile
+## For Mobile
 ```bash
 Clone Repository
 ```
@@ -22,7 +20,7 @@ npm install
 ```bash
 expo start
 ```
-### For Web
+## For Web
 ```bash
 Clone Repository
 ```
@@ -32,7 +30,7 @@ npm install
 ```bash
 expo start --web
 
-## Github Repository
+### Github Repository
 
 https://github.com/thegroupthatworkz/Plant-Protector.git
 
