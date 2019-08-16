@@ -50,42 +50,20 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 
 ![wireframe](assets/images/wireframe1.png)
 
-![alt](assets/img/wireframe2.png)
-
-![alt](assets/img/wireframe3.png)
-
 
 ### UX/UI Design
-
-Home Page
-
-![alt](assets/img/home.png)
-
-Product Page
-
-![alt](assets/img/product.png)
-
-Information Page
-
-![alt](assets/img/info.png)
-
-Weather Section
-
-![alt](assets/img/weather.png)
-
-
-### Initial Design ****USE GIF***** - NEED THESE DESIGNS (MAKE IN AI) 
+## Initial Design 
 
 UX/UI Iterations 
 
-![alt](assets/img/mockups.gif)
+![initial mockups](assets/images/mockup1.gif)
 
 
-### Final Design ****USE GIF***** - NEED THESE SCREEN SHOTS OF FINAL
+## Final Design ****USE GIF***** - NEED THESE SCREEN SHOTS OF FINAL
 
 ![alt](assets/img/mockups-final.gif)
 
 
-### API Server Routes
+## API Server Routes
 ## Challenges
 
