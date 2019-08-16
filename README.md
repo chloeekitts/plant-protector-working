@@ -51,7 +51,6 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 ![wireframe](assets/images/wireframe1.png)
 
 
-### UX/UI Design
 ## Initial Design 
 
 UX/UI Iterations 
