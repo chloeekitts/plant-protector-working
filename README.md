@@ -36,8 +36,8 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 
 ## Tools Used
 
-- React with Material Design UI
 - Javascript
+- React
 - HTML
 - CSS
 - Expo CLI
@@ -49,8 +49,6 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 ### Wireframes and Planning
 
 ![wireframe](assets/images/wireframe1.png)
-
-![alt](assets/images/wireframe1.png)
 
 ![alt](assets/img/wireframe2.png)
 
