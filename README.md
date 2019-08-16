@@ -55,7 +55,9 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 
 UX/UI Iterations 
 
-![initial mockups](assets/images/mockup1.gif)
+![initial mockup](assets/images/mockup1.gif)
+
+![working mockup](assets/images/mockup2.gif)
 
 
 ## Final Design ****USE GIF***** - NEED THESE SCREEN SHOTS OF FINAL
