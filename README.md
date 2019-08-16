@@ -29,7 +29,10 @@ npm install
 ```bash
 expo start --web
 
-### Github Repository
+![Wireframe](assets/images/wireframe1.png)
+
+
+## Github Repository
 
 https://github.com/thegroupthatworkz/Plant-Protector.git
 
@@ -43,8 +46,6 @@ https://github.com/thegroupthatworkz/Plant-Protector.git
 - ESP8266 controllers
 - NodeJS
 - Firebase
-
-![Wireframe](assets/images/wireframe1.png)
 
 
 ### Wireframes and Planning
