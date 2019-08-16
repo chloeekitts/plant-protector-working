@@ -57,7 +57,7 @@ UX/UI Iterations
 
 ![initial mockup](assets/images/mockup1.gif)
 
-![working mockup](assets/images/mockup2.gif)
+![working mockup](assets/images/mockup-2.gif)
 
 
 ## Final Design ****USE GIF***** - NEED THESE SCREEN SHOTS OF FINAL
