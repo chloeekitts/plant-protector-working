@@ -28,9 +28,7 @@ npm install
 ```
 ```bash
 expo start --web
-
-![Wireframe](assets/images/wireframe1.png)
-
+```
 
 ## Github Repository
 
